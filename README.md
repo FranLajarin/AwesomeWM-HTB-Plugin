@@ -38,7 +38,6 @@ cd AwesomeWM-HTB-Plugin
 3. Next, we are going to install the plugins:
 
 ```
-mkdir ~/.config/awesome/ui/widgets
 cp -r ./ui/widgets/* ~/.config/awesome/ui/widgets/
 cp ./ui/bar/init.lua ~/.config/awesome/ui/bar/init.lua
 xdotool key shift+ctrl+alt+9 &>/dev/null
