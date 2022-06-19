@@ -48,3 +48,11 @@ xdotool key shift+ctrl+alt+9 &>/dev/null
 sudo ln -sf ./HackTheBox.sh /usr/bin/HackTheBox
 ```
 
+## Conclusion
+
+I recommend you to add flag +i to the script and give it permissions 755, with this it should be safer.
+```
+sudo chown user:user HackTheBox.sh
+sudo chmod 755 HackTheBox.sh
+sudo chatrr +i HackTheBox.sh
+```
