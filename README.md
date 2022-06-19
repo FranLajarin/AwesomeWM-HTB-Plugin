@@ -7,8 +7,9 @@
 
 ## Screenshots
 
-![img](./Screenshots/UseExample.png)
 ![img](./Screenshots/HelpPanel.png)
+![img](./Screenshots/UseExample.png)
+
 
 ## Introduction
 
