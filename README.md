@@ -32,6 +32,7 @@ First of all you need Awesome WM, im using the AwesomeWM config of [rxyhn](https
 2. Second you need to clone this repository:
 ```
 git clone https://github.com/0xnarf/AwesomeWM-HTB-Plugin
+cd AwesomeWM-HTB-Plugin
 ```
 
 3. Next, we are going to install the plugins:
@@ -42,7 +43,7 @@ cp -r ./ui/widgets/* ~/.config/awesome/ui/widgets/
 cp ./ui/bar/init.lua ~/.config/awesome/ui/bar/init.lua
 xdotool key shift+ctrl+alt+9 &>/dev/null
 ```
-4. Finally, we need to install the bash script in our path:
+4. Finally, we need to copy the bash script in our path:
 ```
 sudo ln -sf ./HackTheBox.sh /usr/bin/HackTheBox
 ```
