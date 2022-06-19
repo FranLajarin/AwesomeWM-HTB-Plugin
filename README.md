@@ -25,8 +25,8 @@ First of all you need Awesome WM, im using the AwesomeWM config of [rxyhn](https
 
 1. First of all you need to add the following code to your `~/.config/awesome/configuration/keys.lua` in "Global Keybindings"
 ```lua
-        -- Add in ~/.config/awesome/configuration/keys.lua
-	awful.key({ shift, ctrl, alt }, "9", awesome.restart, { description = "reload awesome", group = "WM" }),
+-- Add in ~/.config/awesome/configuration/keys.lua
+  awful.key({ shift, ctrl, alt }, "9", awesome.restart, { description = "reload awesome", group = "WM" }),
 ```
 
 2. Second you need to clone this repository:
