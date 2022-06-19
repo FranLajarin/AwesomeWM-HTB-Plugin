@@ -1,9 +1,9 @@
 ## Index
 
-- [**Screenshots**](##Screenshots)
-- [**Introduction**](##Introduction)
-- [**Pre-requisites**](##Pre-requisites)
-- [**Installation**](##Installation)
+- [**Screenshots**](#Screenshots)
+- [**Introduction**](#Introduction)
+- [**Pre-requisites**](#Pre-requisites)
+- [**Installation**](#Installation)
 
 ## Screenshots
 
